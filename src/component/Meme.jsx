@@ -33,7 +33,7 @@ export default function Meme() {
     }
     
     return (
-        <main className="meme--container">
+        <main className="meme-container">
             <div className="form">
                 <input 
                     type="text"
